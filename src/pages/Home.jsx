@@ -3,12 +3,7 @@ import Add from './Add'
 
 
 function Home() {
-  if (condition) {
-    
-  }else{
-    alert('please submit the form')
-  }
-
+  
   return (
     <>
     <h1 className='text-center mt-5'>My Todo List</h1>
